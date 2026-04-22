@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent Player",
+  "description": "Play a classic game of snake while listening to AI generated neon synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
